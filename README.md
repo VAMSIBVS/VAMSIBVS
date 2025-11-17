@@ -83,13 +83,6 @@ Used **pivot tables and formulas** to highlight **top-performing formats and pos
 
 ---
 
-## 📜 Certificates
-
-- **Prompt Engineering** – AI prompts for marketing & content creation  
-- **Digital Marketing** – SEO, social media growth, Google Analytics basics  
-- **AI Workplace Proficiency** – Using AI tools to boost creative productivity:contentReference[oaicite:7]{index=7}  
-
----
 
 ## 📬 Get in Touch
 
