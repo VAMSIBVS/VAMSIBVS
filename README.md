@@ -1,265 +1,208 @@
+hows my read.me
+# 👋 Hey there, I'm **Vamsi Boddikurapati**
+
 <div align="center">
 
-# VAMSI BODDIKURAPATI
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Digital+Media+%26+Content+Analytics;Storytelling+%2B+Data+Driven+Creativity;CSBS+Student+%7C+Creator+%7C+Builder;Turning+Audience+Insights+into+Impact" />
 
-### Building at the intersection of AI, Storytelling & Audience Psychology
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=I+study+why+people+watch.;I+analyze+why+content+works.;I+build+tools+for+creators.;CSBS+Student+%7C+AI+Builder+%7C+Content+Analyst" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Content%20Analytics-00C2FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Creator-Short%20Films-FF4B91?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Builder-AI%20Projects-8A2BE2?style=for-the-badge"/>
+</p>
 
 </div>
 
 ---
 
-## Who Am I?
+# 🚀 About Me
 
-Most developers build software.
+🎓 B.Tech CSBS student at GITAM Deemed University  
+📊 Passionate about **Digital Media, Audience Psychology & Content Analytics**  
+🎬 Love combining **storytelling + data** to create content that actually performs  
+⚡ Exploring the intersection of **AI, Media, Marketing, and User Behaviour**
 
-I enjoy understanding **people**.
+I enjoy analyzing:
 
-Why do viewers leave a video after 12 seconds?
+- 📈 Audience retention
+- 🎥 Watch-time patterns
+- ❤️ Engagement metrics
+- 🧠 Viewer psychology
+- 🚀 Content performance strategies
 
-Why does one reel get 10x more engagement than another?
+And turning them into **actionable insights** that improve reach, retention, and conversions.
 
-Why do certain stories keep people watching till the end?
+---
 
-Those questions pushed me into content analytics, marketing, storytelling, and AI.
+# 🧠 What I Do
 
-Today, I spend my time building projects that combine:
-
-```text
-AI
-+
-Creativity
-+
-Data
-+
-Human Behavior
+```yaml
+Content Analytics      → Finding patterns in audience behaviour
+Creative Storytelling  → Writing & producing engaging content
+Marketing Insights     → Turning numbers into strategy
+AI Projects            → Building smart creative tools
+UI/UX Thinking         → Designing intuitive experiences
 ```
 
 ---
 
-## Currently Building
+# 💼 Experience
 
-### 🤖 Friday
+## 📦 Marketing & Product Strategy Intern — Buddy Basket
 
-An AI assistant that lives on my computer.
+📍 Hyderabad, India  
+📅 Aug 2025 – Present
 
-The goal isn't another chatbot.
+✨ Worked on real-world launch campaigns and customer interactions.
 
-The goal is to build the assistant I always wanted:
-
-- Voice conversations
-- Context memory
-- Real-time assistance
-- Productivity workflows
-- Human-like interaction
-
-Current Status:
-
-```bash
-[████████░░] 80%
-```
+### Key Contributions
+- Designed and executed on-ground marketing campaigns
+- Gathered customer feedback and analyzed interaction patterns
+- Improved engagement using storytelling & live demos
+- Built campaign reports and insight summaries
+- Helped optimize marketing effectiveness through audience understanding
 
 ---
 
-### 🎬 Short Film Analytics
+## 🎪 Event Marketing Volunteer — August Fest 2025
 
-I create short films.
+📍 HITEX Exhibition, Hyderabad  
+📅 Aug 2025
 
-Then I study them.
-
-Instead of asking:
-
-> "Did people watch?"
-
-I ask:
-
-> "Why did they stop watching?"
-
-Using audience retention, engagement patterns and watch-time analysis, I identify:
-
-- Drop-off points
-- High attention moments
-- Story pacing issues
-- Engagement triggers
+- Represented startup products to large audiences
+- Generated and organized qualified leads
+- Conducted audience interaction analysis
+- Supported post-event reporting and insights
 
 ---
 
-### 📊 Social Media Insights Dashboard
+# 🚀 Featured Projects
 
-Built an analytics dashboard for studying content performance.
+## 🤖 Friday — Personal AI Assistant
 
-Tracks:
+> A voice-powered AI assistant designed to improve productivity and daily workflows.
 
+### Built With
+`Python` `AI APIs` `Voice Interaction` `Automation`
+
+### Features
+- 🎙️ Voice interaction
+- 🧠 Context-aware responses
+- ⚡ Productivity-focused workflows
+- 🔄 Real-time assistance
+
+---
+
+## 🎓 Campusly — Student Campus Companion
+
+> A smart campus assistance concept focused on improving student accessibility and navigation.
+
+### Highlights
+- UI/UX-focused design thinking
+- Student problem analysis
+- Accessibility-first approach
+- Simplified user navigation
+
+---
+
+## 🎬 Short Film Analytics Study
+
+> Analyzed audience retention across multiple short films and reels.
+
+### Insights Extracted
+- 📉 Drop-off points
+- ⏱️ Watch-time patterns
+- 🔥 High-engagement moments
+- 🎯 Retention optimization suggestions
+
+🌐 YouTube: https://www.youtube.com/@Vamsi.BVS-m8n/featured
+
+---
+
+## 📊 Social Media Insights Dashboard
+
+> Built an analytics dashboard to track and evaluate short-form content performance.
+
+### Tracked Metrics
 - Reach
 - Plays
-- Watch Time
-- Engagement
-- Retention
+- Likes
+- Watch-time
+- Engagement trends
 
-Goal:
-
-Turn content performance into actionable decisions.
-
----
-
-### 🎓 Campusly
-
-A student-focused campus companion app.
-
-Built after understanding common student challenges and designing a more intuitive experience.
-
-Focus Areas:
-
-- UI/UX
-- Accessibility
-- Navigation
-- Student Experience
+### Tools Used
+`Excel` `Google Sheets` `Pivot Tables`
 
 ---
 
-# What I'm Interested In
-
-```text
-🎬 Storytelling
-
-📊 Content Analytics
-
-🧠 Audience Psychology
-
-🤖 Artificial Intelligence
-
-🚀 Creator Economy
-
-📱 Digital Media
-
-📈 Growth & Marketing
-```
-
----
-
-# Experience
-
-## Marketing & Product Strategy Intern
-### Buddy Basket
-
-Worked directly with customers during product launches.
-
-Responsibilities:
-
-- Campaign execution
-- User interaction
-- Customer feedback analysis
-- Marketing reporting
-- Engagement improvement
-
-What I learned:
-
-People don't buy products.
-
-People buy solutions.
-
----
-
-## Event Marketing Volunteer
-### August Fest 2025
-
-Represented startups and interacted with hundreds of visitors.
-
-Focused on:
-
-- Product pitching
-- Lead generation
-- User interaction
-- Communication
-- Feedback collection
-
----
-
-# Tech Stack
-
-### Analytics
-
-![Excel](https://img.shields.io/badge/Excel-111111?style=for-the-badge&logo=microsoft-excel)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-111111?style=for-the-badge&logo=googlesheets)
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-111111?style=for-the-badge&logo=googleanalytics)
-
-### Creative
-
-![Canva](https://img.shields.io/badge/Canva-111111?style=for-the-badge&logo=canva)
-![CapCut](https://img.shields.io/badge/CapCut-111111?style=for-the-badge)
-![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-111111?style=for-the-badge&logo=adobepremierepro)
-![Adobe After Effects](https://img.shields.io/badge/After_Effects-111111?style=for-the-badge&logo=adobeaftereffects)
-
-### Development
-
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
-![HTML](https://img.shields.io/badge/HTML-111111?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-111111?style=for-the-badge&logo=css3)
-![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk)
-![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma)
-
----
-
-# Things I Believe
-
-```text
-Good content is not luck.
-
-Good content leaves clues.
-
-If you understand the audience,
-you understand the outcome.
-```
-
----
-
-# GitHub Stats
+# 🛠️ Tech & Creative Stack
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=transparent&hide_border=true"/>
+### 📊 Analytics & Data
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=transparent&hide_border=true"/>
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+
+### 🎨 Creative Tools
+
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge)
+![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
+
+### 💻 Development
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
 ---
 
-# Beyond Tech
+# 📈 Current Goals
 
-When I'm not building things:
-
-🎬 Making short films
-
-📊 Studying audience behavior
-
-🎥 Experimenting with content
-
-🤖 Exploring AI tools
-
-☕ Thinking about new project ideas
+- 📊 Become a top-tier Content/Data Analyst
+- 🎥 Build impactful digital media projects
+- 🤖 Create AI-powered creator tools
+- 🚀 Work in media-tech & creative analytics
+- 🌍 Grow as a storyteller driven by data
 
 ---
 
-# Connect
+# 📬 Connect With Me
 
-📧 **vamsibpati@gmail.com**
+<div align="center">
 
-💼 LinkedIn  
-https://www.linkedin.com/in/vamsi-bvs-1aa181308/
+📧 **Email:** vamsibpati@gmail.com  
+📞 **Phone:** +91 97042 26259  
 
-🌐 Portfolio  
-https://preview--vamsibvs.lovable.app/
+🔗 LinkedIn: https://www.linkedin.com/in/vamsi-bvs-1aa181308/  
+🌐 Portfolio: https://preview--vamsibvs.lovable.app/
 
-📍 Hyderabad, India
+</div>
 
 ---
 
 <div align="center">
 
-### "I don't just create content.
+## 💡 “Creativity tells the story. Data tells you why it worked.”
 
-### I try to understand why people connect with it."
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+---
+
+# ⚡ Fun Fact
+
+I love breaking down **why content goes viral** more than just watching it 👀
