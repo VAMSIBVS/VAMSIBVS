@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0d1117,50:1a1a2e,100:16213e&text=VAMSI%20BODDIKURAPATI&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=55&desc=AI%20Builder%20%E2%80%A2%20Film%20Analyst%20%E2%80%A2%20Content%20Strategist&descSize=18&descAlignY=75&descAlign=50&stroke=58a6ff&strokeWidth=1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0d1117,50:1a1a2e,100:16213e&text=VAMSI%20BODDIKURAPATI&fontSize=46&fontColor=58a6ff&animation=fadeIn&fontFamily=Space+Mono&fontAlignY=55&desc=AI%20Builder%20%E2%80%A2%20Film%20Analyst%20%E2%80%A2%20Content%20Strategist&descSize=18&descAlignY=75&descAlign=50&stroke=58a6ff&strokeWidth=1"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=Most+people+ask+%22what+performs+well%22;I+ask+why.;Building+AI+that+thinks+like+me.;Filmmaker+who+reads+data.;Analyst+who+tells+stories.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=Most+people+ask+%22what+performs+well%22;I+ask+why.;Building+AI+that+thinks+like+me.;Filmmaker+who+reads+data.;Analyst+who+tells+stories.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -278,7 +278,7 @@ EN → Portuguese
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:0d1117&height=120&section=footer&animation=fadeIn"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%22Good+content+leaves+clues.%22;%22Good+data+leaves+a+trail.%22;%22I+follow+both.%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=16&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%22Good+content+leaves+clues.%22;%22Good+data+leaves+a+trail.%22;%22I+follow+both.%22)](https://git.io/typing-svg)
 
 <br/>
 
