@@ -1,283 +1,183 @@
+<!--
+  ██╗   ██╗ █████╗ ███╗   ███╗███████╗██╗
+  ██║   ██║██╔══██╗████╗ ████║██╔════╝██║
+  ██║   ██║███████║██╔████╔██║███████╗██║
+  ╚██╗ ██╔╝██╔══██║██║╚██╔╝██║╚════██║██║
+   ╚████╔╝ ██║  ██║██║ ╚═╝ ██║███████║██║
+    ╚═══╝  ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═╝
+-->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,100:2563EB&text=Vamsi%20Boddikurapati&fontSize=52&fontColor=ffffff&animation=fadeIn"/>
-
-# 👋 Hey, I'm Vamsi
-
-### AI Builder • Content Analyst • Filmmaker
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&center=true&vCenter=true&width=850&lines=Building+AI+Products;Studying+Audience+Behavior;Creating+Short+Films;Turning+Data+into+Insights" />
-
-<br>
-
-<a href="https://www.linkedin.com/in/vamsi-bvs-1aa181308/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:vamsibpati@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+```
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█                                                           █
+█   VAMSI BODDIKURAPATI                                     █
+█   ─────────────────────────────────────────────────────  █
+█   AI Builder  ·  Film Analyst  ·  Content Strategist      █
+█   Hyderabad, IN  ·  Open to Opportunities                 █
+█                                                           █
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+```
 
 </div>
 
 ---
 
-# Most people create content.
+> *Most people ask "what performs well."*
+> *I ask why.*
 
-# I'm interested in understanding why it works.
+I sit at the intersection of **artificial intelligence**, **audience psychology**, and **storytelling**.
+Not because it sounds good on a resume — but because content without understanding is just noise.
 
-I explore the intersection of:
+---
 
-```text
-Artificial Intelligence
-Storytelling
-Audience Psychology
-Content Analytics
-Marketing
+## `$ whoami`
+
+```yaml
+name        : Vamsi Boddikurapati
+role        : AI Builder · Filmmaker · Analyst
+location    : Hyderabad, India
+currently   : Building Friday AI · Studying UPSC · Editing Films
+obsessed_with:
+  - why viewers stop watching at the exact second they do
+  - making machines understand context, not just commands
+  - the gap between what data shows and what it means
 ```
 
-Whether it's a reel, short film, marketing campaign, or AI product, I'm always looking for the patterns behind engagement.
+---
+
+## Projects — The ones that matter
 
 ---
 
-# 🚀 Featured Projects
+### `01` — Friday
 
-<table>
-<tr>
+> *The assistant I always wanted. So I built it.*
 
-<td width="55%">
+Not another ChatGPT wrapper.
+Friday is a personal AI assistant built around **voice**, **context**, and **automation** —
+designed to think the way I think, not the way a demo thinks.
 
-## 🤖 Friday
+**What makes it different:**
+real-time responses that remember the session, productivity hooks that actually save time, and a voice layer that doesn't feel like a phone tree.
 
-### Personal AI Assistant
-
-A personal AI assistant designed to make computers feel more human.
-
-#### Features
-
-- Voice Interaction
-- Context Awareness
-- Productivity Automation
-- Real-Time Responses
-- AI Integrations
-
-#### Goal
-
-Build the assistant I always wanted.
-
-</td>
-
-<td width="45%">
-
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%">
-
-</td>
-
-</tr>
-</table>
+`Python` · `AI APIs` · `Voice I/O` · `Automation`
 
 ---
 
-<table>
-<tr>
+### `02` — Short Film Analytics Engine
 
-<td width="55%">
+> *I make films. Then I dissect them.*
 
-## 🎬 Short Film Analytics
+Every cut, every scene, every second someone stays or leaves — it's data.
+I built a personal analytics workflow around my own short films to answer one question:
 
-I create films.
+**→ Why do viewers stop watching?**
 
-Then I study them.
+Mapped drop-off curves. Identified the exact frames that lost people.
+Rebuilt the edit. Watched retention improve.
 
-### Focus
-
-- Audience Retention
-- Watch Time Analysis
-- Drop-Off Points
-- Engagement Patterns
-
-### Question
-
-Why do viewers stop watching?
-
-</td>
-
-<td width="45%">
-
-<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%">
-
-</td>
-
-</tr>
-</table>
+`Google Analytics` · `Sheets` · `Premiere Pro` · `Retention Analysis`
 
 ---
 
-<table>
-<tr>
+### `03` — Social Media Insights Dashboard
 
-<td width="55%">
+> *Reach is a vanity metric. Retention is the truth.*
 
-## 📊 Social Media Insights Dashboard
+Built a dashboard that goes past likes.
+Tracks **watch time curves, engagement depth, repeat views, and drop-off zones**
+across content — and surfaces the patterns behind what actually works.
 
-Built a dashboard to analyze content performance.
-
-### Metrics
-
-- Reach
-- Plays
-- Likes
-- Watch Time
-- Retention
-
-### Outcome
-
-Identified patterns behind high-performing content.
-
-</td>
-
-<td width="45%">
-
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%">
-
-</td>
-
-</tr>
-</table>
+`Excel` · `Google Sheets` · `Data Visualization` · `Content Strategy`
 
 ---
 
-<table>
-<tr>
+### `04` — Campusly
 
-<td width="55%">
+> *The app your campus should have had.*
 
-## 🎓 Campusly
+A student companion app built around **accessibility and navigation** —
+because finding your way around a new campus shouldn't require asking three people.
 
-A student campus companion app focused on improving accessibility and navigation.
-
-### Focus
-
-- UI/UX Design
-- Accessibility
-- Student Experience
-- Campus Navigation
-
-</td>
-
-<td width="45%">
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%">
-
-</td>
-
-</tr>
-</table>
+`Figma` · `UI/UX` · `Accessibility` · `Student UX Research`
 
 ---
 
-# 💼 Experience
+### `05` — SyncVox AI
 
-## Marketing & Product Strategy Intern — Buddy Basket
+> *Upload a video in English. Get it back dubbed in five languages. No paid APIs required.*
 
-- Executed on-ground marketing campaigns
-- Collected and analyzed customer feedback
-- Studied engagement patterns
-- Created reports and campaign insights
-- Improved marketing effectiveness through user understanding
+Built a full end-to-end AI video dubbing pipeline — the kind of thing that usually costs
+a team and a budget. One person, open-source models, zero API bills in demo mode.
 
----
+Whisper pulls the speech. MarianMT translates it. Edge-TTS voices it.
+FFmpeg stitches it back. The timing stays intact. The video still makes sense.
 
-## Event Marketing Volunteer — August Fest 2025
+Side-by-side preview so you can hear the difference immediately.
+Neural male/female voice options. Live AI mode if you want to plug in OpenAI or ElevenLabs.
 
-- Represented startup products
-- Interacted with visitors
-- Generated leads
-- Collected feedback
-- Supported post-event analysis
+**The hard part wasn't the translation. It was making the dubbed audio land on the same beats as the original.**
+
+`Python` · `FastAPI` · `React` · `Whisper` · `FFmpeg` · `MarianMT` · `Edge-TTS` · `Framer Motion`
 
 ---
 
-# 🛠️ Tech Stack
+## Craft Stack
 
-### Analytics
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
-
----
-
-### Creative
-
-![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
-
-![Adobe After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
-
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge)
+```
+ANALYTICS          Excel · Google Sheets · Google Analytics
+CREATIVE           Premiere Pro · After Effects · Canva · CapCut
+DEVELOPMENT        Python · Java · HTML · CSS · Figma
+AI / BUILD         Prompt Engineering · API Integration · Automation
+```
 
 ---
 
-### Development
+## What I've done in the real world
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Marketing & Product Strategy Intern — Buddy Basket**
+On-ground campaigns → data collection → engagement pattern analysis → reports that changed the next campaign.
+Not just executing. Understanding.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+**Event Marketing Volunteer — August Fest 2025**
+Represented startup products, generated leads, fed insights back into post-event analysis.
 
 ---
 
-# 📈 GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VAMSIBVS&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=VAMSIBVS&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VAMSIBVS&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VAMSIBVS&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 
 </div>
 
 ---
 
-# 🌱 Currently
+## Right now
 
-```text
-Building Friday
-Experimenting with AI
-Studying Audience Behavior
-Creating Short Films
-Learning Every Day
 ```
-
----
-
-# 📬 Connect
-
-📍 Hyderabad, India
-
-📧 vamsibpati@gmail.com
-
-🔗 LinkedIn  
-https://www.linkedin.com/in/vamsi-bvs-1aa181308/
-
-🐙 GitHub  
-https://github.com/VAMSIBVS
+→  Building Friday v2
+→  Studying content decay patterns
+→  UPSC CSE Prep (Polity + History deep dives)
+→  Pre-production on next short film
+→  Quietly learning what most people skip
+```
 
 ---
 
 <div align="center">
 
-## "Good content leaves clues."
+**[LinkedIn](https://www.linkedin.com/in/vamsi-bvs-1aa181308/)** · **[GitHub](https://github.com/VAMSIBVS)** · **[Mail](mailto:vamsibpati@gmail.com)**
 
-### I enjoy finding them.
+```
+"Good content leaves clues.
+ Good data leaves a trail.
+ I follow both."
+```
 
 </div>
