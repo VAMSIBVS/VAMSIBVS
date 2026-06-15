@@ -1,183 +1,291 @@
-<!--
-  ██╗   ██╗ █████╗ ███╗   ███╗███████╗██╗
-  ██║   ██║██╔══██╗████╗ ████║██╔════╝██║
-  ██║   ██║███████║██╔████╔██║███████╗██║
-  ╚██╗ ██╔╝██╔══██║██║╚██╔╝██║╚════██║██║
-   ╚████╔╝ ██║  ██║██║ ╚═╝ ██║███████║██║
-    ╚═══╝  ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═╝
--->
-
 <div align="center">
 
-```
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-█                                                           █
-█   VAMSI BODDIKURAPATI                                     █
-█   ─────────────────────────────────────────────────────  █
-█   AI Builder  ·  Film Analyst  ·  Content Strategist      █
-█   Hyderabad, IN  ·  Open to Opportunities                 █
-█                                                           █
-▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0d1117,50:1a1a2e,100:16213e&text=VAMSI%20BODDIKURAPATI&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=55&desc=AI%20Builder%20%E2%80%A2%20Film%20Analyst%20%E2%80%A2%20Content%20Strategist&descSize=18&descAlignY=75&descAlign=50&stroke=58a6ff&strokeWidth=1"/>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=Most+people+ask+%22what+performs+well%22;I+ask+why.;Building+AI+that+thinks+like+me.;Filmmaker+who+reads+data.;Analyst+who+tells+stories.)](https://git.io/typing-svg)
+
+<br/>
+
+<a href="https://www.linkedin.com/in/vamsi-bvs-1aa181308/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:vamsibpati@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/VAMSIBVS">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=VAMSIBVS&color=58a6ff&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-> *Most people ask "what performs well."*
-> *I ask why.*
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-I sit at the intersection of **artificial intelligence**, **audience psychology**, and **storytelling**.
-Not because it sounds good on a resume — but because content without understanding is just noise.
-
----
-
-## `$ whoami`
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp; `$ whoami`
 
 ```yaml
-name        : Vamsi Boddikurapati
-role        : AI Builder · Filmmaker · Analyst
-location    : Hyderabad, India
-currently   : Building Friday AI · Studying UPSC · Editing Films
-obsessed_with:
-  - why viewers stop watching at the exact second they do
-  - making machines understand context, not just commands
-  - the gap between what data shows and what it means
+╔══════════════════════════════════════════════════════════════╗
+║  name        : Vamsi Boddikurapati                           ║
+║  role        : AI Builder · Filmmaker · Analyst              ║
+║  location    : Hyderabad, India  🇮🇳                          ║
+║  currently   : Building Friday AI · Editing Films            ║
+║                                                              ║
+║  obsessed_with:                                              ║
+║    → why viewers stop watching at the exact second they do   ║
+║    → making machines understand context, not just commands   ║
+║    → the gap between what data shows and what it means       ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
----
-
-## Projects — The ones that matter
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
-### `01` — Friday
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> &nbsp; Projects — The ones that matter
 
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 &nbsp; Friday — Personal AI Assistant
 > *The assistant I always wanted. So I built it.*
 
-Not another ChatGPT wrapper.
-Friday is a personal AI assistant built around **voice**, **context**, and **automation** —
-designed to think the way I think, not the way a demo thinks.
+Not another ChatGPT wrapper. Friday is built around **voice**, **context**, and **automation** — designed to think the way I think, not the way a demo thinks.
 
-**What makes it different:**
-real-time responses that remember the session, productivity hooks that actually save time, and a voice layer that doesn't feel like a phone tree.
+Real-time responses. Session memory. Productivity hooks that actually save time.
 
-`Python` · `AI APIs` · `Voice I/O` · `Automation`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/AI%20APIs-FF6B6B?style=flat-square)
+![Voice](https://img.shields.io/badge/Voice%20I%2FO-4ECDC4?style=flat-square)
+![Automation](https://img.shields.io/badge/Automation-45B7D1?style=flat-square)
 
----
+</td>
+<td width="50%" valign="top">
 
-### `02` — Short Film Analytics Engine
-
+### 🎬 &nbsp; Short Film Analytics Engine
 > *I make films. Then I dissect them.*
 
-Every cut, every scene, every second someone stays or leaves — it's data.
-I built a personal analytics workflow around my own short films to answer one question:
+Every second someone stays or leaves — it's data. Built a personal analytics workflow to answer one question: **Why do viewers stop watching?**
 
-**→ Why do viewers stop watching?**
+Mapped drop-off curves. Identified the exact frames. Rebuilt the edit.
 
-Mapped drop-off curves. Identified the exact frames that lost people.
-Rebuilt the edit. Watched retention improve.
+![Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
+![Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+![Premiere](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
 
-`Google Analytics` · `Sheets` · `Premiere Pro` · `Retention Analysis`
+</td>
+</tr>
 
----
+<tr>
+<td width="50%" valign="top">
 
-### `03` — Social Media Insights Dashboard
-
+### 📊 &nbsp; Social Media Insights Dashboard
 > *Reach is a vanity metric. Retention is the truth.*
 
-Built a dashboard that goes past likes.
-Tracks **watch time curves, engagement depth, repeat views, and drop-off zones**
-across content — and surfaces the patterns behind what actually works.
+Dashboard that goes past likes. Tracks **watch time curves, engagement depth, drop-off zones** and surfaces patterns behind what actually works.
 
-`Excel` · `Google Sheets` · `Data Visualization` · `Content Strategy`
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![DataViz](https://img.shields.io/badge/Data%20Visualization-FF6B6B?style=flat-square)
+![Strategy](https://img.shields.io/badge/Content%20Strategy-58a6ff?style=flat-square)
 
----
+</td>
+<td width="50%" valign="top">
 
-### `04` — Campusly
-
+### 🎓 &nbsp; Campusly — Campus Companion
 > *The app your campus should have had.*
 
-A student companion app built around **accessibility and navigation** —
-because finding your way around a new campus shouldn't require asking three people.
+Student companion app built around **accessibility and navigation** — because finding your way around a new campus shouldn't require asking three people.
 
-`Figma` · `UI/UX` · `Accessibility` · `Student UX Research`
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![UX](https://img.shields.io/badge/UI%2FUX-4ECDC4?style=flat-square)
+![Accessibility](https://img.shields.io/badge/Accessibility-45B7D1?style=flat-square)
 
----
+</td>
+</tr>
+</table>
 
-### `05` — SyncVox AI
-
-> *Upload a video in English. Get it back dubbed in five languages. No paid APIs required.*
-
-Built a full end-to-end AI video dubbing pipeline — the kind of thing that usually costs
-a team and a budget. One person, open-source models, zero API bills in demo mode.
-
-Whisper pulls the speech. MarianMT translates it. Edge-TTS voices it.
-FFmpeg stitches it back. The timing stays intact. The video still makes sense.
-
-Side-by-side preview so you can hear the difference immediately.
-Neural male/female voice options. Live AI mode if you want to plug in OpenAI or ElevenLabs.
-
-**The hard part wasn't the translation. It was making the dubbed audio land on the same beats as the original.**
-
-`Python` · `FastAPI` · `React` · `Whisper` · `FFmpeg` · `MarianMT` · `Edge-TTS` · `Framer Motion`
+<br/>
 
 ---
 
-## Craft Stack
+### 🔊 &nbsp; SyncVox AI — Video Dubbing Platform
+
+> *Upload a video in English. Get it back dubbed in 5 languages. No paid APIs required.*
+
+<table>
+<tr>
+<td width="65%">
+
+Built a full end-to-end AI video dubbing pipeline — the kind of thing that usually costs a team and a budget. **One person. Open-source models. Zero API bills in demo mode.**
 
 ```
-ANALYTICS          Excel · Google Sheets · Google Analytics
-CREATIVE           Premiere Pro · After Effects · Canva · CapCut
-DEVELOPMENT        Python · Java · HTML · CSS · Figma
-AI / BUILD         Prompt Engineering · API Integration · Automation
+Whisper     →  Extracts & transcribes speech
+MarianMT    →  Translates to 5 languages
+Edge-TTS    →  Voices it with neural synthesis
+FFmpeg      →  Stitches it back, timing preserved
 ```
 
+**The hard part?** Making dubbed audio land on the exact same beats as the original.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-FF6B6B?style=flat-square)
+![Framer](https://img.shields.io/badge/Framer%20Motion-black?style=flat-square&logo=framer&logoColor=white)
+
+</td>
+<td width="35%" align="center">
+
+```
+🌍 Languages
+─────────────
+EN → Spanish
+EN → French
+EN → German
+EN → Italian
+EN → Portuguese
+─────────────
+🎙️ Male / Female
+   Neural Voices
+─────────────
+⚡ Demo Mode
+   No API Key
+   Required
+```
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ---
 
-## What I've done in the real world
-
-**Marketing & Product Strategy Intern — Buddy Basket**
-On-ground campaigns → data collection → engagement pattern analysis → reports that changed the next campaign.
-Not just executing. Understanding.
-
-**Event Marketing Volunteer — August Fest 2025**
-Represented startup products, generated leads, fed insights back into post-event analysis.
-
----
-
-## GitHub Activity
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"> &nbsp; Tech Arsenal
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=VAMSIBVS&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+### 🧠 AI & Automation
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VAMSIBVS&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+### 🎨 Creative & Film
+![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+### 💻 Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### 📊 Analytics
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> &nbsp; GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VAMSIBVS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=VAMSIBVS&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=FF6B6B&currStreakLabel=58a6ff"/>
+
+<br/><br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VAMSIBVS&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VAMSIBVS&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=FF6B6B&area=true&hide_border=true"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"> &nbsp; Currently
+
+<div align="center">
+
+```
+◆  Building Friday v2          ─────────────────── [ IN PROGRESS ]
+◆  SyncVox AI — Lip Sync       ─────────────────── [ NEXT UP     ]
+◆  Short Film — Pre-Production ─────────────────── [ SCOUTING    ]
+◆  Content Decay Research      ─────────────────── [ ONGOING     ]
+◆  Learning what most skip     ─────────────────── [ ALWAYS      ]
+```
 
 </div>
 
 ---
 
-## Right now
+## Experience
 
-```
-→  Building Friday v2
-→  Studying content decay patterns
-→  UPSC CSE Prep (Polity + History deep dives)
-→  Pre-production on next short film
-→  Quietly learning what most people skip
-```
+<details>
+<summary><b>📌 Marketing & Product Strategy Intern — Buddy Basket</b></summary>
+<br/>
+
+> On-ground campaigns → data collection → engagement pattern analysis → reports that changed the next campaign.
+> Not just executing. Understanding.
+
+- Executed field marketing campaigns across Hyderabad
+- Collected and analyzed customer feedback at scale
+- Identified engagement patterns that informed strategy
+- Built reports that directly shaped the next campaign cycle
+
+</details>
+
+<details>
+<summary><b>📌 Event Marketing Volunteer — August Fest 2025</b></summary>
+<br/>
+
+> Represented startup products. Talked to real people. Fed insights back.
+
+- Represented startup products to live audiences
+- Generated qualified leads through direct interaction
+- Conducted on-ground user feedback sessions
+- Contributed to post-event analysis and reporting
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
 <div align="center">
 
-**[LinkedIn](https://www.linkedin.com/in/vamsi-bvs-1aa181308/)** · **[GitHub](https://github.com/VAMSIBVS)** · **[Mail](mailto:vamsibpati@gmail.com)**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:0d1117&height=120&section=footer&animation=fadeIn"/>
 
-```
-"Good content leaves clues.
- Good data leaves a trail.
- I follow both."
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%22Good+content+leaves+clues.%22;%22Good+data+leaves+a+trail.%22;%22I+follow+both.%22)](https://git.io/typing-svg)
+
+<br/>
+
+**[LinkedIn](https://www.linkedin.com/in/vamsi-bvs-1aa181308/)** &nbsp;·&nbsp; **[GitHub](https://github.com/VAMSIBVS)** &nbsp;·&nbsp; **[Mail](mailto:vamsibpati@gmail.com)**
+
+<br/>
+
+*📍 Hyderabad, India &nbsp;·&nbsp; Open to Opportunities*
 
 </div>
